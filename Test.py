@@ -19,6 +19,3 @@ def fibonacci(n):
 
 # Driver Program
 print(fibonacci(9))
-
-#Dummy data
-kahdhahdh
